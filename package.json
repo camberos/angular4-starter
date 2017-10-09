@@ -1,0 +1,19 @@
+{
+  "name": "angular4-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camberos/angular4-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camberos/angular4-starter/issues"
+  },
+  "homepage": "https://github.com/camberos/angular4-starter#readme"
+}
